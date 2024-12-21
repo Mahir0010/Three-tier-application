@@ -1,3 +1,15 @@
+variable "rds-password" {
+    description = "rds password"
+    type = string
+    default = "srivardhan"
+  
+}
+variable "rds-username" {
+    description = "rds username"
+    type = string
+    default = "admin"
+  
+}
 variable "ami" {
     description = "ami"
     type = string
@@ -13,6 +25,11 @@ variable "instance-type" {
 variable "key-name" {
     description = "keyname"
     type = string
-    default = "aws_key"
+    default = "us-east-1"
+  
+}
+variable "backupr-retention" {
+    type = number
+    default = "7"
   
 }
