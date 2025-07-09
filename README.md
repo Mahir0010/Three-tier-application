@@ -84,6 +84,3 @@ terraform apply
 
 ---
 
-Let me know if you'd like to add **diagrams**, **screenshots**, or **future improvements** sections as well.
-```
-
