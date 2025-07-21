@@ -2,7 +2,7 @@
 
 ![architecture](https://github.com/user-attachments/assets/4177ee8c-2e1f-456e-8e83-01f0da133e7f)
 
-Here's a professional and concise GitHub repository description and README section you can use for your **Three-tier application deployed on AWS using Terraform**:
+**Three-tier application deployed on AWS using Terraform**:
 
 ---
 
